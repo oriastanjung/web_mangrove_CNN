@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from sklearn.preprocessing import LabelBinarizer
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # Parameter model
 img_height, img_width = 150, 150
