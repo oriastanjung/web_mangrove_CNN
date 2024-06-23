@@ -18,7 +18,7 @@ model = load_model(model_path)
 # Label binarizer (harus sama dengan yang digunakan saat pelatihan)
 labels = ['Avicennia alba', 'Bruguiera cylindrica', 'Bruguiera gymnorrhiza',
           'Lumnitzora littorea', 'Rhizophora apiculata', 'Rhizophora mucronata',
-          'Scyphiphora hydrophyllacea', 'Senoratia alba', 'Xylocarpus granatum']
+          'Scyphiphora hydrophyllacea', 'Sonneratia alba', 'Xylocarpus granatum']
 
 lb = LabelBinarizer()
 lb.fit(labels)
