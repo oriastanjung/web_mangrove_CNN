@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "nama": "Avicennia alba",
+      "dekripsi": "Avicennia alba is a type of mangrove that can grow up to 25 meters tall and is widely distributed. This tree has a complex horizontal root system and intricate respiratory roots. Its respiratory roots are usually thin and finger-like or resemble asparagus, covered by lenticels. The outer bark is grayish or dark brown, with some parts having small protrusions while others may have a smooth surface. On older trunks, a thin powder is sometimes found.",
+      "ekologi": "This species is a pioneer in mangrove swamp habitats on sheltered coasts, saltier areas along riverbanks influenced by tides, and along coastlines. They usually thrive at the front of bays. Their roots are known to help bind sediment and accelerate land formation processes. This plant flowers throughout the year. This genus is sometimes viviparous, where some fruits reproduce while still attached to the tree.",
+      "manfaat": "The trunk of this species can be used as firewood and low-quality building material. Its sap can be used as a contraceptive. The fruit is edible.",
+      "penyebaran": "Found throughout Indonesia, India, Indochina, Malaysia, the Philippines, Papua New Guinea, and tropical Australia.",
+      "imgSRC": "/gambar_data_tanaman/Avicennia alba.JPG"
+    },
+    {
+      "id": 2,
+      "nama": "Bruguiera cylindrica",
+      "dekripsi": "Bruguiera cylindrica has knee roots and buttress roots spreading sideways from the base of the tree, with heights sometimes reaching 23 meters. Its bark is gray, relatively smooth, and has a number of small lenticels.",
+      "ekologi": "Grows in large clusters, usually on clay soils behind the Avicennia zone, or in the middle zone of mangrove vegetation towards the sea. This species also has the ability to grow on newly formed and unsuitable substrates for other species. Its ability to grow on clay soils makes this tree highly dependent on respiratory roots for adequate oxygen supply, and thus very responsive to prolonged flooding. Its fruits are light and float, aiding in waterborne dispersal, but its growth is slow. Flowering occurs throughout the year.",
+      "manfaat": "The trunk of this mangrove species can be used as firewood. In some regions, young roots from the embryos are eaten with sugar and coconut. Fishermen do not use its wood for fishing purposes because it emits a smell that repels fish.",
+      "penyebaran": "Distributed in Southeast Asia, Australia, and throughout Indonesia, including Irian Jaya.",
+      "imgSRC": "/gambar_data_tanaman/Bruguiera cylindrica.JPG"
+    },
+    {
+      "id": 3,
+      "nama": "Bruguiera gymnorrhiza",
+      "dekripsi": "This type of mangrove can reach heights of up to 30 meters. The bark has lenticels, its surface ranges from smooth to rough, and its color varies from dark gray to brown. Its roots are like buttresses spreading sideways at the base of the tree and also have a number of knee roots.",
+      "ekologi": "This species is dominant in tall mangrove forests and is characteristic of the late development stage of coastal forests and the early stage in the transition to terrestrial vegetation types. It grows in areas with low salinity and dry conditions, and soils with good aeration. This species is tolerant of both shaded and sun-exposed areas. They also grow at the landward edge of mangroves, along fishponds, and tidal brackish rivers. They are found at the coast only if erosion occurs on the land in front of them. Their substrate consists of mud, sand, and sometimes black peat soil. They are sometimes found at river edges less influenced by seawater, possible due to their fruits being carried by water currents or tides. Their regeneration is often limited in number. Flowers and fruits are present year-round. Flowers are relatively large, with reddish petals, pendulous, and attract birds for pollination.",
+      "manfaat": "The inner part of the hypocotyl is edible (candied kandeka), mixed with sugar. Its red wood is used as firewood and to make charcoal.",
+      "penyebaran": "From East Africa and Madagascar to Sri Lanka, Malaysia, Indonesia, and the Western Pacific to tropical Australia.",
+      "imgSRC": "/gambar_data_tanaman/Bruguiera gymnorrhiza.JPG"
+    },
+    {
+      "id": 4,
+      "nama": "Lumnitzera littorea",
+      "dekripsi": "This species grows scattered and can reach heights of up to 25 meters, although usually shorter. It has knee-shaped respiratory roots that are dark brown, and its bark has longitudinal cracks.",
+      "ekologi": "This species is often found in areas with fine, muddy substrates on the landward edge of mangroves, where flooding rarely occurs. They are also found along waterways with a strong and constant freshwater supply. Flowering occurs throughout the year. The production of nectar, flower color, and morphology and location indicate that pollination is aided by birds. Their light and buoyant fruits facilitate dispersal by water.",
+      "manfaat": "Its wood is strong and highly resistant to water. With its attractive appearance and rose-like scent, the wood is suitable for making cabinets and other furniture. Unfortunately, large-sized wood is very rare.",
+      "penyebaran": "In tropical Asia, Indonesia, Northern Australia, and Polynesia. Rarely found on the beaches of Java.",
+      "imgSRC": "/gambar_data_tanaman/Lumnitzera littorea.JPG"
+    },
+    {
+      "id": 5,
+      "nama": "Rhizophora apiculata",
+      "dekripsi": "This species can reach heights of up to 30 meters with a trunk diameter of 50 cm. It has distinctive roots that can reach heights of up to 5 meters, and sometimes has aerial roots emerging from branches. Its bark is dark gray and variable.",
+      "ekologi": "Often found growing on fine, deep, muddy soils submerged during normal high tides. It does not favor harder substrates mixed with sand. Its dominance can reach 90% of the vegetation in a given location. It prefers tidal waters with a strong and permanent freshwater input. Root branching can grow abnormally due to beetle attacks at the root tips. Crabs can also hinder their growth by disturbing the root bark of seedlings. Growth is slow, but flowering occurs year-round.",
+      "manfaat": "The wood is used for construction, firewood, and charcoal. The bark contains up to 30% tannin (by dry weight). Root branches can be used as anchors when weighted with stones. In Java, it is often planted on fishpond edges to protect the embankments. It is frequently used for reforestation.",
+      "penyebaran": "From Sri Lanka, Malaysia, Indonesia to tropical Australia and the Pacific Islands.",
+      "imgSRC": "/gambar_data_tanaman/Rhizophora apiculata.JPG"
+    },
+    {
+      "id": 6,
+      "nama": "Rhizophora mucronata",
+      "dekripsi": "This species usually reaches a maximum height of 27 meters, rarely exceeding 30 meters. Its trunk can have a diameter of up to 70 cm, with dark to black bark that has horizontal cracks. It has stilt roots and aerial roots growing from the lower branches.",
+      "ekologi": "Often found in the same habitats as R. apiculata but is more tolerant of harder and sandy substrates. It generally grows in groups, near or on tidal riverbanks and estuaries, rarely far from tidal waters. Optimal growth occurs in deeply submerged areas and soils rich in humus. It is one of the most important and widespread mangrove species. Flowering occurs year-round. Seedlings are often eaten by crabs, which hinders their growth. Seedlings that are dried in the shade for a few days become more resistant to crab disturbances, possibly due to the accumulation of tannin in the tissues that then protect them.",
+      "manfaat": "The wood is used for fuel and charcoal. Tannin from the bark is used for dyeing and sometimes as a remedy for hematuria (blood in the urine). It is sometimes planted along fishponds to protect the embankments.",
+      "penyebaran": "From East Africa, Southeast Asia, all of Malaysia and Indonesia, Melanesia, Micronesia, and even planted in Hawaii.",
+      "imgSRC": "/gambar_data_tanaman/Rhizophora mucronata.JPG"
+    },
+    {
+      "id": 7,
+      "nama": "Scyphiphora hydrophyllacea",
+      "dekripsi": "This species has an upright shrub-like tree with many branches, reaching a maximum height of 3 meters. Its bark is rough and brown, young branches have resin, and large individuals sometimes have stilt roots.",
+      "ekologi": "Grows on muddy, sandy, and coral substrates at the landward edge of mangroves or on embankments and near waterways. It does not seem tolerant of prolonged freshwater flooding and usually occupies locations frequently flooded by tides. It is reported to grow in locations unsuitable for colonization by other mangrove species. Flowering occurs year-round, possibly self-pollinated or by insects. Nectar is produced by glandular discs at the base of the flower petals. Many fruits are produced, but seed reproduction is relatively low. The fruit is well adapted for water dispersal due to its light and buoyant skin.",
+      "manfaat": "The wood can possibly be used for making eating utensils, such as spoons. Leaves can be used to treat stomach aches.",
+      "penyebaran": "Found in India, Sri Lanka, Malaysia, Indonesia, Papua New Guinea, the Philippines, the Solomon Islands, and tropical Australia.",
+      "imgSRC": "/gambar_data_tanaman/Scyphiphora hydrophyllacea.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Sonneratia alba",
+      "dekripsi": "This type of mangrove can reach heights of up to 15 meters. The bark is old white to brown, with fine longitudinal cracks. The roots are cable-like underground and emerge to the surface as conical respiratory roots up to 25 cm tall.",
+      "ekologi": "A pioneer species, intolerant of prolonged freshwater flooding. Prefers soils mixed with mud and sand, sometimes on rocks and coral. Often found in coastal locations sheltered from wave action, as well as in estuaries and around offshore islands. In locations where other plant species have been cut down, this species can form dense stands. Flowering occurs year-round. Flowers do not live long and fully bloom at night, possibly pollinated by moths, birds, and fruit-eating bats. In rocky coastal areas, they spread vegetatively. Fireflies often attach to these trees at night. The fruit floats due to its water-containing tissue. Respiratory roots are not found on trees growing on hard substrates.",
+      "manfaat": "The sour fruit is edible. In Sulawesi, the wood is used for boats and construction, or as fuel when no other fuel is available. The respiratory roots are used by the Irian people for cork and floats.",
+      "penyebaran": "From North Africa, Madagascar, Southeast Asia, Indonesia, Malaysia, the Philippines, tropical Australia, to Southwestern Oceania.",
+      "imgSRC": "/gambar_data_tanaman/Sonneratia alba.JPG"
+    },
+    {
+      "id": 9,
+      "nama": "Xylocarpus granatum",
+      "dekripsi": "The tree can reach heights of 10-20 meters. It has buttress roots spreading sideways, winding and forming gaps. The trunk is often hollow, especially in older trees. The bark is light brown-yellowish, thin and peeling, while on young branches, the bark is wrinkled.",
+      "ekologi": "Grows along tidal riverbanks, at the landward edge of mangroves, and other less salty brackish environments. Often grows in large clusters. Older individuals are often covered with epiphytes.",
+      "manfaat": "The wood is only available in small sizes, sometimes used for boat building. The bark is collected for its high tannin content (>24% dry weight).",
+      "penyebaran": "Grows in Java, Madura, Bali, Karimun Jawa, Sumatra, Sulawesi, Kalimantan, Maluku, Sumba, and Irian Jaya.",
+      "imgSRC": "/gambar_data_tanaman/Xylocarpus granatum.JPG"
+    }
+  ]
+  

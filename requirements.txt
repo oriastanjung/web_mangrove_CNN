@@ -1,0 +1,12 @@
+flask
+scikit-learn
+scikit-image
+flask_cors
+numpy
+opencv-python
+scipy
+pandas
+quart
+quart_cors
+gunicorn
+tensorflow
