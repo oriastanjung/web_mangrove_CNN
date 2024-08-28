@@ -12,16 +12,24 @@ from controllerKlasifikasi import klasifikasiMangrove
 app = Quart(__name__)
 cors(app, allow_origin="*")  # Mengaktifkan CORS
 
-# Buat blueprint untuk file statis
-static_bp = Blueprint('static', __name__, static_folder='gambar_data_tanaman')
+# Buat blueprint untuk file statis gambar
+static_image_bp = Blueprint('static_image', __name__, static_folder='gambar_data_tanaman')
+# Buat blueprint untuk file statis video
+# static_video_bp = Blueprint('static_video', __name__, static_folder='video_data_tanaman')
 
 # Tambahkan route untuk menyajikan gambar
-@static_bp.route('/gambar_data_tanaman/<path:filename>')
+@static_image_bp.route('/<path:filename>')
 async def serve_image(filename):
-    return await send_from_directory(static_bp.static_folder, filename)
+    return await send_from_directory(static_image_bp.static_folder, filename)
+
+# # Tambahkan route untuk menyajikan video
+# @static_video_bp.route('/<path:filename>')
+# async def serve_video(filename):
+#     return await send_from_directory(static_video_bp.static_folder, filename)
 
 # Daftarkan blueprint ke aplikasi Quart
-app.register_blueprint(static_bp)
+app.register_blueprint(static_image_bp, url_prefix='/gambar_data_tanaman')
+# app.register_blueprint(static_video_bp, url_prefix='/video_data_tanaman')
 
 @app.route('/', methods=['GET'])
 async def index():
