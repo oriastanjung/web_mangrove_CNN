@@ -20,6 +20,8 @@ COPY . .
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
 
-# Run the application
-# CMD ["python3", "main.py"]
-RUN python3 main.py
+# Install Hypercorn
+RUN pip3 install hypercorn
+
+# Run the application using Hypercorn
+CMD ["hypercorn", "main:app", "--bind", "0.0.0.0:5000"]
